@@ -18,15 +18,15 @@ dafemaStart("north east")
 Please take in consideration the amount of msoa per region as it affects the
 computing time
 
-340;"North East"                dafemaStart("north east")
-573;"East Midlands"             dafemaStart("East Midlands")
-692;"Yorkshire and The Humber"  dafemaStart("Yorkshire and The Humber")
-700;"South West"                dafemaStart("South West")
-735;"West Midlands"             dafemaStart("West Midlands")
-736;"East of England"           dafemaStart("East of England")
-924;"North West"                dafemaStart("North West")
-983;"London"                    dafemaStart("London")
-1108;"South East"               dafemaStart("South East")
+340, "North East", dafemaStart("north east")
+573, "East Midlands", dafemaStart("East Midlands")
+692, "Yorkshire and The Humber", dafemaStart("Yorkshire and The Humber")
+700, "South West", dafemaStart("South West")
+735, "West Midlands", dafemaStart("West Midlands")
+736, "East of England", dafemaStart("East of England")
+924, "North West", dafemaStart("North West")
+983, "London", dafemaStart("London")
+1108, "South East", dafemaStart("South East")
 
 The region value can be one or many regions using a string, a string vector or 
 a defined variable i.e. 'london', c('london', 'south east'), definedVariable etc.
