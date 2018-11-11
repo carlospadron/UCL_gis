@@ -1,9 +1,8 @@
 Tool for the Definition and Analysis of Functional Economic Market Areas (DAFEMA).
 written by Carlos Padron carlos.florez.16@ucl.ac.uk;padron.ca@gmail.com.
 
-################################################################################
 INSTRUCTIONS
-################################################################################
+
 Please note that the script expects the data to be stored in the same folder as
 the script. 
 After sourcing the script, the user only needs to run the following command to 
